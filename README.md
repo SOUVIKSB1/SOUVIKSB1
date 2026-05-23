@@ -58,20 +58,20 @@ Name: Souvik Sinhababu<br>Location: Kolkata, India<br>Degree: B.Tech in Computer
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=radical&hide_border=true&background=0D1117"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUVIKSB1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </p>
 
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SOUVIKSB1&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Name: Souvik Sinhababu<br>Location: Kolkata, India<br>Degree: B.Tech in Computer
 # 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=souviksinhababu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
 </p>
 
 ---
