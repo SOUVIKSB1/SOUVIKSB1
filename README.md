@@ -1,19 +1,39 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:00C8FF&height=200&section=header&text=SOUVIK%20SINHABABU&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FF8C00,100:FFBC00&height=220&section=header&text=SOUVIK%20SINHABABU&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Cloud%20Enthusiast&descAlignY=56&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Code.+Build.+Innovate.+Repeat.;Future+Software+Engineer+%F0%9F%9A%80;Cloud+%7C+AI+%7C+DevOps+%7C+DSA;Turning+Coffee+Into+Clean+Code+%E2%98%95;Consistency+%3E+Motivation+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=Code.+Build.+Innovate.+Repeat.;Software+Developer+%7C+B.Tech+CSE;Cloud+%7C+AI+%7C+DevOps+%7C+DSA;Turning+Coffee+Into+Clean+Code;Consistency+%3E+Motivation+%F0%9F%94%A5" alt="Typing SVG"/>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=SOUVIKSB1&style=for-the-badge&color=00FFB3&label=PROFILE+VIEWS" />
+<!-- BADGES ROW -->
+<img src="https://komarev.com/ghpvc/?username=SOUVIKSB1&style=for-the-badge&color=FF6B00&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/SOUVIKSB1?style=for-the-badge&color=00C8FF&labelColor=0D1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/SOUVIKSB1?style=for-the-badge&color=FF8C00&labelColor=0D1117&label=FOLLOWERS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF88?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF6B00?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ROLE-CLASS%20REPRESENTATIVE-FFBC00?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║         IDENTITY MODULE v2.6  //  SOUVIKSB1          ║
+╠══════════════════════════════════════════════════════╣
+║  NAME     :  Souvik Sinhababu                        ║
+║  LOCATION :  Kolkata, India                          ║
+║  DEGREE   :  B.Tech CSE @ Techno Main Salt Lake      ║
+║  ROLE     :  Class Representative                    ║
+║  STATUS   :  ● ACTIVE  |  OPEN TO WORK               ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -28,24 +48,22 @@ public:
     string location = "Kolkata, India";
     string degree   = "B.Tech CSE @ Techno Main Salt Lake";
     string role     = "Class Representative";
-    
+
     vector<string> interests = {
-        "Software Development",
-        "Artificial Intelligence & ML",
-        "Cloud Computing (GCP, AWS, Azure)",
+        "Software Development & System Design",
+        "Artificial Intelligence & Machine Learning",
+        "Cloud Computing — GCP, AWS, Azure",
         "Core Java & Backend Engineering",
         "DSA & Competitive Programming"
     };
 
-    string motto() {
-        return "Consistency > Motivation";
-    }
+    string motto() { return "Consistency > Motivation 🔥"; }
 };
 ```
 
 ---
 
-## `> tech_stack --list`
+## `> tech_stack --all`
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,15 +77,15 @@ public:
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-### Frameworks & Runtimes
+### Frameworks & Runtime
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -97,23 +115,33 @@ public:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00C8FF&text_color=EAFFF8&count_private=true&include_all_commits=true" />
+<!-- STATS CARD -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFBC00&text_color=FFE0B2&count_private=true&include_all_commits=true&ring_color=FF6B00"/>
 &nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FFB3&fire=FFBC00&currStreakLabel=00FFB3&sideLabels=00C8FF&dates=EAFFF8" />
+<!-- STREAK CARD -->
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFBC00&dates=FFE0B2&stroke=FF6B00"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUVIKSB1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=EAFFF8&langs_count=8" />
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUVIKSB1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFE0B2&langs_count=8"/>
 
 </div>
 
 ---
 
-## `> trophies --display`
+## `> stat_panel --detailed`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SOUVIKSB1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
+| METRIC | VALUE | METRIC | VALUE |
+|:---:|:---:|:---:|:---:|
+| **COMMITS** | `200+` | **REPOS** | `20+` |
+| **STARS** | `15+` | **PULL REQUESTS** | `50+` |
+| **ISSUES** | `25+` | **FORKS** | `8+` |
+| **FOLLOWERS** | `30+` | **CURRENT STREAK** | `12 Days` |
+| **LONGEST STREAK** | `30 Days` | **THIS YEAR** | `180+` |
+| **TOTAL CONTRIBUTIONS** | `350+` | **PROFILE SCORE** | `72 / 100` |
 
 </div>
 
@@ -123,19 +151,17 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUVIKSB1&bg_color=0D1117&color=00FFB3&line=00C8FF&point=FFBC00&area=true&area_color=00FFB3&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUVIKSB1&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FFBC00&area=true&area_color=FF8C00&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `> top_repos --pinned`
+## `> trophies --display`
 
 <div align="center">
 
-<a href="https://github.com/SOUVIKSB1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOUVIKSB1&repo=SOUVIKSB1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00C8FF&text_color=EAFFF8" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=SOUVIKSB1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4"/>
 
 </div>
 
@@ -144,13 +170,16 @@ public:
 ## `> current_mission`
 
 ```yaml
-status: ACTIVE
+operator  : SOUVIKSB1
+status    : ACTIVE
+location  : Kolkata, India
+
 focus:
   - Mastering DSA & Competitive Programming
-  - Building Cloud-Native Apps on GCP
+  - Building Cloud-Native Apps on GCP & AWS
   - Exploring Kubernetes & CI/CD Pipelines
-  - Deepening ML & System Design skills
-  - Contributing to Open Source
+  - Deepening ML & System Design knowledge
+  - Contributing to Open Source Projects
 
 currently_learning:
   - Advanced Java Design Patterns
@@ -166,13 +195,13 @@ fun_fact: "Half of coding is fixing your own bugs 🐛"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-SOUVIKSB1-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOUVIKSB1)
+[![GitHub](https://img.shields.io/badge/GitHub-SOUVIKSB1-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/SOUVIKSB1)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik%20Sinhababu-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souviksinhababu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik%20Sinhababu-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/souviksinhababu)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-sinhababu__souvik-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sinhababu_souvik)
+[![Instagram](https://img.shields.io/badge/Instagram-sinhababu__souvik-FFBC00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/sinhababu_souvik)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-souviksinhababu1-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souviksinhababu1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-souviksinhababu1-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:souviksinhababu1@gmail.com)
 
 </div>
 
@@ -182,7 +211,7 @@ fun_fact: "Half of coding is fixing your own bugs 🐛"
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </div>
 
@@ -208,7 +237,7 @@ while (!success) {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:00FFB3&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBC00,50:FF8C00,100:FF6B00&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 **⚡ Consistency > Motivation — SOUVIKSB1 © 2026**
 
