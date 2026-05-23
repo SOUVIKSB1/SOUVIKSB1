@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=SOUVIKSB1&style=for-the-badge&color=FF6B00&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/SOUVIKSB1?style=for-the-badge&color=FF8C00&labelColor=0D1117&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF6B00?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/ROLE-CLASS%20REPRESENTATIVE-FFBC00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE%20DEVELOPER-FFBC00?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -33,9 +33,9 @@
 │  NAME        : Souvik Sinhababu              │
 │  USERNAME    : SOUVIKSB1                     │
 │  LOCATION    : Kolkata, India                │
-│  DEGREE      : B.Tech CSE                   │
+│  DEGREE      : B.Tech CSE                    │
 │  COLLEGE     : Techno Main Salt Lake         │
-│  ROLE        : Class Representative          │
+│  ROLE        : SOFTWARE DEVELOPER            │
 │  STATUS      : ACTIVE • OPEN TO WORK         │
 ╰──────────────────────────────────────────────╯
 ```
@@ -337,53 +337,6 @@ while (!success) {
 ```
 
 </div>
-
----
-
-## 🧬 GitHub Actions — Auto Update Setup
-
-To enable the **Snake Animation** and keep your profile auto-updating, create this file in your repo:
-
-**File path:** `.github/workflows/update.yml`
-
-```yaml
-name: Update README
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
-  workflow_dispatch:          # Allows manual trigger from Actions tab
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: SOUVIKSB1
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
-
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> ✅ **One-time setup:** Go to your repo → `Settings` → `Actions` → `General` → set **Workflow permissions** to **Read and write**.
-
----
 
 <div align="center">
 
