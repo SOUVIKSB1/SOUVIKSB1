@@ -83,7 +83,7 @@ Name: Souvik Sinhababu<br>Location: Kolkata, India<br>Degree: B.Tech in Computer
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/sinhababusouvik">
+  <a href="https://linkedin.com/in/sOUVIKSINHABABU">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -94,14 +94,6 @@ Name: Souvik Sinhababu<br>Location: Kolkata, India<br>Degree: B.Tech in Computer
   <a href="mailto:souviksinhababu1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=souviksinhababu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
 </p>
 
 ---
