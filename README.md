@@ -1,10 +1,9 @@
 <!-- ║⚡ SOUVIK COMMAND CENTER ⚡║ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1A1B27,50:FF6B00,75:FF8C00,100:FFBC00&text=⟨%20SOUVIK%20SINHABABU%20/%20⟩&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35&desc=⚡%20Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Cloud%20Engineer&descAlignY=56&descSize=17&descColor=FFE0B2&stroke=FF8C00&strokeWidth=2" width="100%" />
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=⚡+Building+systems+that+scale...;🚀+Deploying+cloud-native+applications;🧠+Exploring+AI+and+LLM+ecosystems;🔥+Consistency+beats+motivation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1A1B27,50:FF6B00,75:FF8C00,100:FFBC00&text=⟨%20SOUVIK%20SINHABABU%20/%20⟩&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=35&desc=⚡%20Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Enthusiast%20Coder&descAlignY=56&descSize=17&descColor=FFE0B2&stroke=FF8C00&strokeWidth=2" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=850&lines=Code.+Build.+Scale.+Repeat.;B.Tech+CSE+Student+%40+Techno+Main+Salt+Lake;Cloud+%7C+AI+%7C+Backend+%7C+DevOps;Turning+Ideas+Into+Production+Ready+Systems;Consistency+%3E+Motivation+%F0%9F%94%A5" alt="Typing SVG"/>
   </a>
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="90%" />
@@ -32,26 +31,64 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# ⚡ Mission Control
 
-```ts
-const souvik = {
-    role: "Software Developer & AI Explorer",
-    education: "B.Tech CSE @ Techno Main Salt Lake",
-    focus: [
-        "Cloud Native Applications",
-        "Artificial Intelligence",
-        "Backend Engineering",
+
+# 🧠 `whoami.cpp`
+
+```cpp
+
+class SouvikSinhababu {
+
+private:
+
+    string mindset = "Consistency > Motivation 🔥";
+
+public:
+
+    string name        = "Souvik Sinhababu";
+
+    string username    = "SOUVIKSB1";
+
+    string location    = "Kolkata, India";
+
+    string degree      = "B.Tech CSE @ Techno Main Salt Lake";
+
+    string role        = "Class Representative";
+
+    vector<string> interests = {
+
+        "Software Development & System Design",
+
+        "Artificial Intelligence & Machine Learning",
+
+        "Cloud Computing — GCP, AWS, Azure",
+
+        "Core Java & Backend Engineering",
+
         "DSA & Competitive Programming",
-        "DevOps & Kubernetes"
-    ],
-    currentlyLearning: [
-        "LLM Integrations",
+
+        "DevOps & CI/CD Automation"
+
+    };
+
+    vector<string> currentlyLearning = {
+
+        "Advanced Java Design Patterns",
+
         "Microservices Architecture",
-        "Advanced Java"
-    ],
-    mindset: "Consistency > Motivation 🔥"
+
+        "LLM Integration & Prompt Engineering"
+
+    };
+
+    string motto() {
+
+        return "Learn • Build • Break • Fix • Repeat";
+
+    }
+
 };
+
 ```
 
 <br clear="both" />
@@ -86,15 +123,22 @@ const souvik = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 # 📡 GitHub Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFBC00&text_color=FFE0B2&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=SOUVIKSB1&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFBC00&dates=FFE0B2" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUVIKSB1&layout=donut-vertical&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFE0B2&langs_count=8" width="38%" />
 </p>
 
 ---
@@ -115,13 +159,26 @@ const souvik = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-# 🔭 Featured Missions
 
-<p align="center">
-  <a href="https://github.com/SOUVIKSB1/SOUVIKSB1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SOUVIKSB1&repo=SOUVIKSB1&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFBC00&text_color=FFE0B2" />
-  </a>
-</p>
+
+## 📌 Developer Snapshot
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOUVIKSB1&theme=github_dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SOUVIKSB1&theme=github_dark&utcOffset=5.5"/>
+
+
+</div>
 
 ---
 
@@ -143,36 +200,7 @@ DevOps          2 hrs 11 mins  ██░░░░░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-# 🐍 Neural Activity Stream
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-# 📊 Full System Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUVIKSB1&theme=github_dark" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark" width="49%" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-# 🌠 Space Zone
+# 🌠 Peace Zone
 
 <div align="center">
 
@@ -187,11 +215,7 @@ DevOps          2 hrs 11 mins  ██░░░░░░░░░░░░░░�
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-# 🌐 Connect Across The Galaxy
+# 🌐 Connect Me
 
 <div align="center">
 
@@ -209,12 +233,20 @@ DevOps          2 hrs 11 mins  ██░░░░░░░░░░░░░░�
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+# 💭 Dynamic Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFBC00,25:FF8C00,50:FF6B00,75:1A1B27,100:0D1117" width="100%" />
 
 ### ⚡ Consistency beats motivation when nobody is watching.
+
+---
 
 </div>
