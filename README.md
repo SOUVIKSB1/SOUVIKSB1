@@ -208,11 +208,7 @@ Last Update  : Auto Synced ⚡
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -232,17 +228,21 @@ Last Update  : Auto Synced ⚡
 
 <div align="center">
 
-| METRIC | VALUE | METRIC | VALUE |
-|:---:|:---:|:---:|:---:|
-| 🚀 COMMITS | `400+` | 📦 REPOSITORIES | `30+` |
-| ⭐ STARS | `25+` | 🔁 PULL REQUESTS | `50+` |
-| 🐛 ISSUES | `15+` | 🍴 FORKS | `8+` |
-| 👥 FOLLOWERS | `30+` | 🔥 CURRENT STREAK | `12 Days` |
-| 🧠 LONGEST STREAK | `30 Days` | 📅 THIS YEAR | `180+` |
-| 💻 CONTRIBUTIONS | `350+` | 📊 PROFILE SCORE | `82 / 100` |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOUVIKSB1&theme=github_dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SOUVIKSB1&theme=github_dark&utcOffset=5.5"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUVIKSB1&theme=github_dark"/>
 
 </div>
-
 ---
 
 ## 🎯 Current Mission
@@ -304,16 +304,6 @@ fun_fact:
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🛰️ Visitor Analytics
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=SOUVIKSB1&icon=5&color=12"/>
 
 </div>
 
