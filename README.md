@@ -101,6 +101,7 @@ Last Update  : Auto Synced ⚡
 
 </div>
 ---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -108,6 +109,7 @@ Last Update  : Auto Synced ⚡
 ![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 ---
 
 ## 🎧 Currently Vibing To
