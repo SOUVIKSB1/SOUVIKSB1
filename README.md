@@ -107,9 +107,11 @@ Last Update  : Auto Synced ⚡
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=souviksinhababu1&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false)](https://open.spotify.com/user/souviksinhababu1)
-
-> 🎵 **Note:** To activate this widget, visit [Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/) → log in with Spotify → replace `uid` above with your actual Spotify User ID.
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=314qt6eljhv5noqced34s634mlla&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314qt6eljhv5noqced34s634mlla&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=light">
+  </a>
+</p>
 
 </div>
 
