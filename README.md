@@ -22,21 +22,21 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
 <div align="center">
 
 ```yaml
 ╭──────────────────────────────────────────────╮
-│              SYSTEM PROFILE                 │
+│              SYSTEM PROFILE                  │
 ├──────────────────────────────────────────────┤
-│ NAME        : Souvik Sinhababu              │
-│ USERNAME    : SOUVIKSB1                     │
-│ LOCATION    : Kolkata, India                │
-│ DEGREE      : B.Tech CSE                    │
-│ COLLEGE     : Techno Main Salt Lake         │
-│ ROLE        : Class Representative          │
-│ STATUS      : ACTIVE • OPEN TO WORK         │
+│  NAME        : Souvik Sinhababu              │
+│  USERNAME    : SOUVIKSB1                     │
+│  LOCATION    : Kolkata, India                │
+│  DEGREE      : B.Tech CSE                   │
+│  COLLEGE     : Techno Main Salt Lake         │
+│  ROLE        : Class Representative          │
+│  STATUS      : ACTIVE • OPEN TO WORK         │
 ╰──────────────────────────────────────────────╯
 ```
 
@@ -44,17 +44,15 @@
 
 ---
 
-# 🧠 whoami.cpp
+## 🧠 whoami.cpp
 
 ```cpp
 class SouvikSinhababu {
 
 private:
-    
     string mindset = "Consistency > Motivation 🔥";
 
 public:
-
     string name        = "Souvik Sinhababu";
     string username    = "SOUVIKSB1";
     string location    = "Kolkata, India";
@@ -62,35 +60,29 @@ public:
     string role        = "Class Representative";
 
     vector<string> interests = {
-
         "Software Development & System Design",
         "Artificial Intelligence & Machine Learning",
         "Cloud Computing — GCP, AWS, Azure",
         "Core Java & Backend Engineering",
         "DSA & Competitive Programming",
         "DevOps & CI/CD Automation"
-
     };
 
     vector<string> currentlyLearning = {
-
         "Advanced Java Design Patterns",
         "Microservices Architecture",
         "LLM Integration & Prompt Engineering"
-
     };
 
     string motto() {
-
         return "Learn • Build • Break • Fix • Repeat";
-
     }
 };
 ```
 
 ---
 
-# ⚡ Live Developer Status
+## ⚡ Live Developer Status
 
 <div align="center">
 
@@ -111,45 +103,47 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 🎧 Currently Vibing To
+## 🎧 Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=Souvik_Sinhababu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=souviksinhababu1&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false)](https://open.spotify.com/user/souviksinhababu1)
+
+> 🎵 **Note:** To activate this widget, visit [Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/) → log in with Spotify → replace `uid` above with your actual Spotify User ID.
 
 </div>
 
 ---
 
-# ⚙️ Tech Arsenal
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-## 💻 Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,powershell&theme=dark"/>
 
 ---
 
-## ☁️ Cloud • DevOps • Deployment
+### ☁️ Cloud • DevOps • Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,firebase,vercel,netlify&theme=dark"/>
 
 ---
 
-## 🚀 Frameworks • Runtime
+### 🚀 Frameworks • Runtime
 
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark"/>
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
 
 ---
 
-## 🤖 AI / ML Stack
+### 🤖 AI / ML Stack
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
@@ -162,7 +156,7 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-## 🛠️ Developer Tools
+### 🛠️ Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,arduino,vscode&theme=dark"/>
 
@@ -170,13 +164,13 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFBC00&text_color=FFE0B2&count_private=true&include_all_commits=true"/>
 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFBC00&dates=FFE0B2&stroke=FF6B00"/>
+<img height="190" src="https://streak-stats.demolab.com/?user=SOUVIKSB1&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFBC00&dates=FFE0B2&stroke=FF6B00"/>
 
 <br/><br/>
 
@@ -188,7 +182,7 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 📡 GitHub Metrics
+## 📡 GitHub Metrics
 
 <div align="center">
 
@@ -198,7 +192,7 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -208,17 +202,21 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-# 🏆 Achievement Showcase
+## 🏆 Achievement Showcase
 
 <div align="center">
 
@@ -228,7 +226,7 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 📌 Developer Snapshot
+## 📌 Developer Snapshot
 
 <div align="center">
 
@@ -245,7 +243,7 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 🎯 Current Mission
+## 🎯 Current Mission
 
 ```yaml
 operator: SOUVIKSB1
@@ -275,31 +273,31 @@ fun_fact:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/SOUVIKSB1">
-<img src="https://img.shields.io/badge/GitHub-SOUVIKSB1-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-SOUVIKSB1-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <a href="https://linkedin.com/in/souviksinhababu">
-<img src="https://img.shields.io/badge/LinkedIn-Souvik%20Sinhababu-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Souvik%20Sinhababu-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <a href="https://instagram.com/sinhababu_souvik">
-<img src="https://img.shields.io/badge/Instagram-sinhababu__souvik-FFBC00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Instagram-sinhababu__souvik-FFBC00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <a href="mailto:souviksinhababu1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-souviksinhababu1-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Gmail-souviksinhababu1-FF6B00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Dynamic Dev Quote
+## 💭 Dynamic Dev Quote
 
 <div align="center">
 
@@ -307,7 +305,9 @@ fun_fact:
 
 </div>
 
-# 🛰️ Visitor Analytics
+---
+
+## 🛰️ Visitor Analytics
 
 <div align="center">
 
@@ -317,20 +317,18 @@ fun_fact:
 
 ---
 
-# ⚡ Runtime Loop
+## ⚡ Runtime Loop
 
 <div align="center">
 
 ```cpp
 while (!success) {
-
     learn();
     build();
     fail();
     debug();
     improve();
     repeat();
-
 }
 
 // OUTPUT :: SUCCESS ✓
@@ -340,31 +338,27 @@ while (!success) {
 
 ---
 
-# 🧬 GitHub Workflow Automation
+## 🧬 GitHub Actions — Auto Update Setup
 
-Create:
+To enable the **Snake Animation** and keep your profile auto-updating, create this file in your repo:
 
-```bash
-.github/workflows/update.yml
-```
-
-Add:
+**File path:** `.github/workflows/update.yml`
 
 ```yaml
 name: Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:          # Allows manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v3
 
@@ -374,6 +368,7 @@ jobs:
           github_user_name: SOUVIKSB1
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3
@@ -383,6 +378,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+> ✅ **One-time setup:** Go to your repo → `Settings` → `Actions` → `General` → set **Workflow permissions** to **Read and write**.
 
 ---
 
