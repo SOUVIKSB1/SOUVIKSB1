@@ -116,7 +116,7 @@ Last Update  : Auto Synced ⚡
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=Souvik_Sinhababu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 </div>
 
