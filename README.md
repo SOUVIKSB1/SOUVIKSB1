@@ -37,9 +37,7 @@ Python        8 hrs 12 mins  ████████░░░░░░░░░
 JavaScript    4 hrs 01 mins  ████░░░░░░░░░░░░░
 Cloud          3 hrs 18 mins ███░░░░░░░░░░░░░░
 DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
-```
 
-<!--END_SECTION:waka-->
 
 ---
 
@@ -47,13 +45,11 @@ DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
 
 # 🐍 Neural Activity Stream
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -61,9 +57,17 @@ DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
 
 # 📊 Full System Metrics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/SOUVIKSB1?template=terminal&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FKolkata" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUVIKSB1&theme=github_dark" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark" width="49%" />
+
+</div>
 
 ---
 
@@ -71,15 +75,21 @@ DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
 
 # 🌠 Space Zone
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+</div>
 
 ---
 
@@ -111,4 +121,4 @@ DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
 
 ### ⚡ Consistency beats motivation when nobody is watching.
 
-</d
+</div>
