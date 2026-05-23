@@ -100,7 +100,13 @@ Last Update  : Auto Synced ⚡
 ```
 
 </div>
+## 🐍 Contribution Snake
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 ---
 
 ## 🎧 Currently Vibing To
@@ -199,17 +205,6 @@ Last Update  : Auto Synced ⚡
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUVIKSB1&bg_color=0D1117&color=FF8C00&line=FF6B00&point=FFBC00&area=true&area_color=FF8C00&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
