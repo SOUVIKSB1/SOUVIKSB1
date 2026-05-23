@@ -8,7 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SOUVIKSB1&style=for-the-badge&color=FF6B00&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/SOUVIKSB1?style=for-the-badge&color=FF8C00&labelColor=0D1117&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/SOUVIKSB1?affiliations=OWNER&style=for-the-badge&color=FFBC00&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF6B00?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/ROLE-CLASS%20REPRESENTATIVE-FFBC00?style=for-the-badge&labelColor=0D1117"/>
 
@@ -229,47 +228,18 @@ Last Update  : Auto Synced ⚡
 
 ---
 
-# 🧩 Coding Profiles
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
-
-</div>
-
----
-
-# ⏳ Weekly Development Breakdown
-
-```text
-Java         12 hrs 40 mins  ████████████░░░░░░
-Python        8 hrs 12 mins  ████████░░░░░░░░░
-JavaScript    4 hrs 01 mins  ████░░░░░░░░░░░░░
-Cloud          3 hrs 18 mins ███░░░░░░░░░░░░░░
-DevOps         2 hrs 11 mins ██░░░░░░░░░░░░░░░
-```
-
----
-
-# ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 # 📌 Developer Snapshot
 
 <div align="center">
 
 | METRIC | VALUE | METRIC | VALUE |
 |:---:|:---:|:---:|:---:|
-| 🚀 COMMITS | `200+` | 📦 REPOSITORIES | `20+` |
-| ⭐ STARS | `15+` | 🔁 PULL REQUESTS | `50+` |
-| 🐛 ISSUES | `25+` | 🍴 FORKS | `8+` |
+| 🚀 COMMITS | `400+` | 📦 REPOSITORIES | `30+` |
+| ⭐ STARS | `25+` | 🔁 PULL REQUESTS | `50+` |
+| 🐛 ISSUES | `15+` | 🍴 FORKS | `8+` |
 | 👥 FOLLOWERS | `30+` | 🔥 CURRENT STREAK | `12 Days` |
 | 🧠 LONGEST STREAK | `30 Days` | 📅 THIS YEAR | `180+` |
-| 💻 CONTRIBUTIONS | `350+` | 📊 PROFILE SCORE | `72 / 100` |
+| 💻 CONTRIBUTIONS | `350+` | 📊 PROFILE SCORE | `82 / 100` |
 
 </div>
 
@@ -336,18 +306,6 @@ fun_fact:
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
-
----
-
-# 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://random-memer.herokuapp.com/" width="500px"/>
-
-</div>
-
----
 
 # 🛰️ Visitor Analytics
 
