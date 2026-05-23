@@ -100,6 +100,7 @@ Last Update  : Auto Synced ⚡
 ```
 
 </div>
+---
 ## 🐍 Contribution Snake
 
 <div align="center">
