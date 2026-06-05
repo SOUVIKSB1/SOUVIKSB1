@@ -136,9 +136,11 @@ public:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 # 📡 GitHub Telemetry
 
+# 🛰 GitHub Telemetry
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=SOUVIKSB1&theme=dark&hide_border=true" width="49%" />
 </p>
 
 ---
