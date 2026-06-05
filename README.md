@@ -138,8 +138,9 @@ public:
 # 🛰 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent&hide_border=true" width="49%" />
+  
   <img src="https://streak-stats.demolab.com?user=SOUVIKSB1&theme=dark" alt="GitHub Streak" />
+  
 </p>
 
 ---
