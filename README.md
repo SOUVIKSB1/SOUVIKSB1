@@ -137,8 +137,8 @@ public:
 # 📡 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FFBC00&text_color=FFE0B2&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=SOUVIKSB1&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=FFBC00&dates=FFE0B2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SOUVIKSB1&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
