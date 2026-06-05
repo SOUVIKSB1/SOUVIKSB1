@@ -139,7 +139,7 @@ public:
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUVIKSB1&theme=github_dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation">
   <img src="https://streak-stats.demolab.com?user=SOUVIKSB1&theme=dark" alt="GitHub Streak" />
   
 </p>
