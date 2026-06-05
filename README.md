@@ -139,7 +139,7 @@ public:
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/SOUVIKSB1/SOUVIKSB1/output/pacman-contribution-graph-dark.svg">
   <img src="https://streak-stats.demolab.com?user=SOUVIKSB1&theme=dark" alt="GitHub Streak" />
   
 </p>
