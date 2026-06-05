@@ -137,10 +137,9 @@ public:
 
 # 🛰 GitHub Telemetry
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOUVIKSB1&show_icons=true&theme=transparent)
-
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=SOUVIKSB1&theme=dark)
-
+</p>
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
