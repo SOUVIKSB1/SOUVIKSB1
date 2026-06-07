@@ -167,20 +167,24 @@ public:
 ## 📌 Developer Snapshot
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOUVIKSB1&theme=github_dark"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SOUVIKSB1&theme=github_dark&utcOffset=5.5"/>
-
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOUVIKSB1&theme=github_dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SOUVIKSB1&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOUVIKSB1&theme=github_dark" alt="Repos Per Language" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOUVIKSB1&theme=github_dark" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
