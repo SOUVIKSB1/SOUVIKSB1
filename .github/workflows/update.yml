@@ -1,15 +1,16 @@
-name: Update README
+name: Generate Animations
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   # Runs every 1 hours
-  workflow_dispatch:          # Allows manual trigger from Actions tab
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout Repository
@@ -20,11 +21,16 @@ jobs:
         with:
           github_user_name: SOUVIKSB1
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Generate Pacman Animation
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: SOUVIKSB1
+
+      - name: Push generated animations to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
