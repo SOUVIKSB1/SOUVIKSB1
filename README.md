@@ -194,13 +194,11 @@ public:
 # ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-```text
-Java           12 hrs 40 mins  ████████████░░░░░░░░░   45%
-Python          8 hrs 12 mins  ████████░░░░░░░░░░░░░   29%
-JavaScript      4 hrs 01 mins  ████░░░░░░░░░░░░░░░░░   14%
-Cloud           3 hrs 18 mins  ███░░░░░░░░░░░░░░░░░░   08%
-DevOps          2 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░   04%
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
