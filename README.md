@@ -196,11 +196,7 @@ public:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 19 mins         ███████████████████████░░   92.06 %
-Text       14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Markdown   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-CSV        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
