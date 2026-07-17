@@ -196,7 +196,9 @@ public:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   13 mins               ██████████▓░░░░░░░░░░░░░░   42.18 %
+Python       12 mins               █████████▓░░░░░░░░░░░░░░░   39.01 %
+Markdown     6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
 ```
 
 <!--END_SECTION:waka-->
