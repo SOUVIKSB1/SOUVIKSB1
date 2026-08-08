@@ -196,8 +196,7 @@ public:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min                 ███████████████████▓░░░░░   79.30 %
-Python       0 secs                █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Python   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
