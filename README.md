@@ -196,11 +196,11 @@ public:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        6 hrs 19 mins         ██████████░░░░░░░░░░░░░░░   40.28 %
-Markdown     2 hrs 18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-JSON         1 hr 57 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Git Config   1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-TypeScript   1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Other        5 hrs 19 mins         █████████░░░░░░░░░░░░░░░░   35.53 %
+Git Config   1 hr 59 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+JSON         1 hr 57 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Markdown     1 hr 53 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+TypeScript   1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
 ```
 
 <!--END_SECTION:waka-->
