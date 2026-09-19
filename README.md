@@ -196,8 +196,8 @@ public:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    2 hrs 36 mins         ██████████████████░░░░░░░   71.81 %
-Python   1 hr 1 min            ███████░░░░░░░░░░░░░░░░░░   28.19 %
+Other    1 hr 28 mins          ██████████████▓░░░░░░░░░░   58.87 %
+Python   1 hr 1 min            ██████████▒░░░░░░░░░░░░░░   41.13 %
 ```
 
 <!--END_SECTION:waka-->
